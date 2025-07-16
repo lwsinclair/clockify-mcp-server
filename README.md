@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alex198710-clockify-mcp-server-badge.png)](https://mseep.ai/app/alex198710-clockify-mcp-server)
+
 # Clockify Time Tracker
 
 [![smithery badge](https://smithery.ai/badge/@alex198710/clockify-mcp-server)](https://smithery.ai/server/@alex198710/clockify-mcp-server)
